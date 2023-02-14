@@ -2,8 +2,9 @@
 <div>
   <p>
     - 👨 20 anos ...<br>
-    - 🏫 Estudando ambiente Web ...<br>
-    - 👀 Estudando React.js / React Native e Typescript ...
+    - 🏫 Algumas de minha experiência em engenharia inclui, mas não está limitada a React, Node.js (REST, MySQL, PostgreSQL, Websockets, CI/CD )<br>
+    - 🛠️ Ferramentas: ReactJS, Next.js, React Native, Node.js, TypeScript, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker<br>
+    - 👀 Interesse atual: Clean Architecture, Docker, Serverless, AWS
   </p>
   
 </div>
