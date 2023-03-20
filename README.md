@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius
 <div>
   <p>
-    - 👨 20 anos ...<br>
+    - 👨 21 anos ...<br>
     - 🏫 Algumas de minha experiência em engenharia inclui, mas não está limitada a React, Node.js (REST, MySQL, PostgreSQL, Websockets, CI/CD )<br>
     - 🛠️ Ferramentas: ReactJS, Next.js, React Native, Node.js, TypeScript, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker<br>
     - 👀 Interesse atual: Clean Architecture, Docker, Serverless, AWS
