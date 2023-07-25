@@ -1,10 +1,8 @@
-## Olá! Eu sou o Vinicius
+## Olá! Eu sou o Vinicius Abreu
 <div>
   <p>
-    - 👨 21 anos ...<br>
-    - 🏫 Algumas de minha experiência em engenharia inclui, mas não está limitada a React, Node.js (REST, MySQL, PostgreSQL, Websockets, CI/CD )<br>
-    - 🛠️ Ferramentas: ReactJS, Next.js, React Native, Node.js, TypeScript, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker<br>
-    - 👀 Interesse atual: Clean Architecture, Docker, Serverless, AWS
+    - 🛠️ ReactJS, Next.js, React Native, Node.js, TypeScript, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker, C#<br>
+    - 👀 Go Lang, Clean Architecture, Clean Code, Docker, Serverless, AWS
   </p>
   
 </div>
@@ -26,10 +24,9 @@
   
 ##
  
- <div>
-  <a href="https://www.instagram.com/vs_abreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vs.abreu@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vs-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <div>  
+  <a href="https://medium.com/@vinicius_abreu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vs-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div> 
   
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
