@@ -1,8 +1,7 @@
-## Olá! Eu sou o Vinicius Abreu
+## Hello! I'm Vinicius Abreu
 <div>
   <p>
-    - 🛠️ ReactJS, Next.js, React Native, Node.js, TypeScript, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker, C#<br>
-    - 👀 Go Lang, Clean Architecture, Clean Code, Docker, Serverless, AWS
+    - 🛠️ Javascript, Typescript, Delphi, C#, Python, Go, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker, C#<br>
   </p>
   
 </div>
