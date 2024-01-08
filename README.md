@@ -1,7 +1,7 @@
 ## Hello! I'm Vinicius Abreu
 <div>
   <p>
-    - 🛠️ Javascript, Typescript, Delphi, C#, Python, Go, MySQL, PostgreSQL, MongoDB, Redis, CSS-in-JS, Docker, C#<br>
+    - 🛠️ Javascript, Typescript, Delphi, C#, Python, Go, MySQL, PostgreSQL, MongoDB, Redis, Docker, Terraform<br>
   </p>
   
 </div>
