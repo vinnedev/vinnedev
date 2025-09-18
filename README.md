@@ -28,7 +28,6 @@ I’m a software engineer with over 4 years of hands-on experience building scal
 - DevOps & Infrastructure  
 - Applied AI  
 - Open Source Contributions
-- 
 ---
 
 ### 🌐 Connect with me
