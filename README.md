@@ -6,7 +6,7 @@ I’m a software engineer with over 5 years of hands-on experience building scal
 
 ### 💻 Technologies & Tools
 
-- **Languages:** Go, TypeScript, JavaScript, Python, C#, Delphi  
+- **Languages:** Go, TypeScript, JavaScript, Python, Java, C#, Delphi  
 - **Back-end:** Node.js, REST APIs, gRPC, RabbitMQ, Redis, MongoDB, PostgreSQL, MySQL  
 - **DevOps / Infra:** Docker, Azure DevOps, Terraform  
 - **Front-end:** React.js  
