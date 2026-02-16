@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Vinicius Abreu
 
-I’m a software engineer with over 4 years of hands-on experience building scalable and reliable systems. Currently, I work as a **Lead Software Engineer** at Celeste AI, an AI-as-a-Service company focused on automated audio/video transcription and text optimization.
+I’m a software engineer with over 5 years of hands-on experience building scalable and reliable systems. Currently, I work as a **Lead Software Engineer** at Celeste AI, an AI-as-a-Service company focused on automated audio/video transcription and text optimization.
 
 ---
 
